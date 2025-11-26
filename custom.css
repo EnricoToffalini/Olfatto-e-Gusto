@@ -1,0 +1,10 @@
+a {
+  color: #9B0014;
+}
+a:hover {
+  color: #555555;
+}
+::selection {
+  background-color: #9B0014;
+  color: #ffffff;
+}

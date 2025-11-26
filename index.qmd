@@ -1,0 +1,28 @@
+---
+title: "Olfatto e Gusto"
+subtitle: "Corso sulla psicologia dell'olfatto, dei sapori, e sul comportamento umano in relazione ai sensi chimici"
+author: "Enrico Toffalini"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: custom.css
+---
+
+## Presentazione del corso
+
+Questo breve corso introduce gli studenti alla psicologia dell’olfatto e della percezione multisensoriale dei sapori. Partendo dall’importanza dell’olfatto nella vita quotidiana, vengono illustrate le basi anatomiche e fisiologiche dei sensi chimici, i principali disturbi olfattivi, e il legame tra olfatto e comportamento sociale. Il corso esplora inoltre le interazioni tra olfatto, gusto, vista e udito, fino ad applicazioni pratiche come la psicologia del vino, il marketing olfattivo e le differenze individuali e culturali nella percezione sensoriale.
+
+## Slide del corso
+
+* [1. Importanza dell'olfatto](1.%20SLIDE%20-%20Importanza%20olfatto.pdf)
+* [2. Cenni anatomici sui sensi chimici](2.%20SLIDE%20-%20Cenni%20anatomici%20sui%20sensi%20chimici.pdf)
+* [3. Disturbi dell'olfatto e conseguenze](3.%20SLIDE%20-%20Disturbi%20olfatto%20e%20conseguenze.pdf)
+* [4. Olfatto e comportamento sociale](4.%20SLIDE%20-%20Olfatto%20e%20comportamento%20sociale.pdf)
+* [5. Illusioni olfattive](5.%20SLIDE%20-%20Illusioni%20olfattive.pdf)
+* [6. Percezione multisensoriale dei sapori](6.%20SLIDE%20-%20Percezione%20multisensoriale%20dei%20sapori.pdf)
+* [7. Influenze uditive su sapori e comportamenti](7.%20SLIDE%20-%20Influenze%20uditive%20sui%20sapori%20e%20comportamenti.pdf)
+* [8. Psicologia del vino](8.%20SLIDE%20-%20Psicologia%20del%20vino.pdf)
+* [9. Olfatto e marketing](9.%20SLIDE%20-%20Olfatto%20e%20marketing.pdf)
+* [10. Differenze individuali e culturali](10.%20SLIDE%20-%20Differenze%20individuali%20e%20culturali.pdf)
+
