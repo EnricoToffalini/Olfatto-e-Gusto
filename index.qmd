@@ -1,7 +1,7 @@
 ---
 title: "Psicologia dell'Olfatto e del Gusto"
 subtitle: "Corso sull'olfatto, i sapori, la percezione multisensoriale, e il comportamento umano in relazione ai sensi chimici"
-author: "Enrico Toffalini"
+author: "<a href='https://enricotoffalini.github.io/' target='blank'>Enrico Toffalini</a>"
 format:
   html:
     theme: cosmo
